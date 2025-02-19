@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 const Testimonials = () => {
     return (
       <section className="py-16 bg-lightGray">
