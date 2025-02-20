@@ -17,9 +17,7 @@ export default function Home() {
         <Header />
         <main className="mt-20">
           <Hero />
-          <PropertySearch />
-          <FeaturedProperties />
-          <Testimonials />
+
           <CTA />
         </main>
         <Footer></Footer>
